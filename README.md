@@ -1,2 +1,2 @@
 # mother-stretch-my-hands
-*sorayama* inspired elevating vsc theme with scampi,  lavender gray, casper, heather, viking, limed, steel blue...
+*sorayama* inspired vsc theme with lavander gray casper blue
