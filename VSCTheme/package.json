@@ -1,0 +1,34 @@
+{
+"name": "bianca",
+"displayName": "mother stretch my hands",
+"description": "galaxy inspired purple/blue-ish themie",
+"version": "0.0.1",
+"publisher": "chiefyangga",
+"repository": {
+  "type": "git",
+  "url": "<https://github.com/chiefyangga/mother-stretch-my-hands>"
+},
+  "keyword": [
+    "theme",
+    "dark theme",
+    "galaxy theme",
+    "sorayama",
+    "chiefyangga",
+    "mother stretch my hands"
+  ],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mother-stretch-my-hands",
+        "uiTheme": "hc-black",
+        "path": "./themes/mother-stretch-my-hands-color-theme.json"
+      }
+    ]
+  }
+}
